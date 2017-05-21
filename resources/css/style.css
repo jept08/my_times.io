@@ -1,10 +1,14 @@
-h1 {
-display: flex;
-font-family: Verdana;
-font-size: 14px;
-font-weight: bold;
-color: MediumAquamarine;
+header {
+  display: flex;
+  font-family: Verdana;
+  font-size: 14px;
+  font-weight: bold;
+  color: MediumAquamarine;
 }
-ul li {
-text-align: right;
+nav span {
+  display:inline-block;
+  text-align: right;
+}
+. logo {
+  display: flex;
 }
