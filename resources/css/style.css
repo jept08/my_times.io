@@ -5,6 +5,6 @@ font-size: 14px;
 font-weight: bold;
 color: MediumAquamarine;
 }
-ul {
-text-align: right; 
+ul li {
+text-align: right;
 }
